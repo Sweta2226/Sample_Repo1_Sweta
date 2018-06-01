@@ -9,7 +9,11 @@ public class FirstTest {
 	{
 		System.out.println("firstTest1");
 	}
-
+	@Test
+	public void firstTest2()
+	{
+		System.out.println("firstTest2");
+	}
 	
 
 }
